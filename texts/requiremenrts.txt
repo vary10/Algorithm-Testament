@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+nltk
+gensim
+tensorflow
+h5py
+regex
